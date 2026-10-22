@@ -1,4 +1,4 @@
-como com# Oi, sou o Leonardo 👋
+# Oi, sou o Leonardo 👋
 
 **Desenvolvedor** · Sites, apps e automações · Passo Fundo, RS
 
