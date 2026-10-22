@@ -11,6 +11,6 @@
 `Swift` `TypeScript` `React`
 
 ## Contato
-[Instagram](o.leonardopetri) · [E-mail](leonardo.ptrr@gmail.com)
+[Instagram](instagram.com/o.leonardopetri) · [E-mail](mailto:leonardo.ptrr@gmail.com)
 
 *Um commit por vez.* 🟩
