@@ -1,4 +1,4 @@
-# Oi, sou o Leonardo 👋
+como com# Oi, sou o Leonardo 👋
 
 **Desenvolvedor** · Sites, apps e automações · Passo Fundo, RS
 
@@ -11,6 +11,6 @@
 `Swift` `TypeScript` `React`
 
 ## Contato
-[Instagram](instagram.com/o.leonardopetri) · [E-mail](mailto:leonardo.ptrr@gmail.com)
+[Instagram](https://instagram.com/o.leonardopetri) · [E-mail](mailto:leonardo.ptrr@gmail.com)
 
 *Um commit por vez.* 🟩
