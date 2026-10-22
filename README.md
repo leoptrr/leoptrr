@@ -1,16 +1,16 @@
-# Oi, sou o Leonardo 👋
+# Hi, I'm Leonardo 👋
 
-**Desenvolvedor** · Sites, apps e automações · Passo Fundo, RS
+**Developer** · Websites, apps and automations · Passo Fundo, Brazil
 
-## Em andamento
-- 📱 **Intentio**: app minimalista de finanças para iOS
-- 🌐 **Intentio Site**: landing page do app
-- 🚀 Dev na **Play Performance**: sites, apps, automações e Meta Ads
+## Currently
+- 📱 **Intentio**: minimalist personal finance app for iOS
+- 🌐 **Intentio Site**: landing page for the app
+- 🚀 Dev at **Play Performance**: websites, apps, automations and Meta Ads
 
 ## Stack
 `Swift` `TypeScript` `React`
 
-## Contato
-[Instagram](https://instagram.com/o.leonardopetri) · [E-mail](mailto:leonardo.ptrr@gmail.com)
+## Contact
+[Instagram](https://instagram.com/o.leonardopetri) · [Email](mailto:leonardo.ptrr@gmail.com)
 
-*Um commit por vez.* 🟩
+*One commit at a time.* 🟩
